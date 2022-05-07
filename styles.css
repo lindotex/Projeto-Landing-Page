@@ -1,0 +1,138 @@
+a {
+    display: inline-block;
+    color: rgb(237, 236, 238);
+    margin: 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    opacity: 0, 7;
+    color: #801171;
+    transition: 0.3s all;
+}
+
+body {
+    background-color: #21023a;
+    color: aliceblue;
+    font-family: 'Poppins', sans-serif;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    width: 80%;
+    height: 30%;
+    justify-content: space-evenly;
+}
+
+form[type="submit"] {
+    height: 50px;
+    width: 50%;
+    background-color: #9d4dee;
+    color: rgb(243, 235, 235);
+    font-weight: bold;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    line-height: 0px;
+}
+
+input {
+    margin-top: 10px;
+    background-color: darkgrey;
+    height: 20px;
+    border-radius: 20px;
+    border: none;
+    font-size: 15px;
+    padding: 15px;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header:hover {
+    opacity: 0, 7;
+    color: #801171;
+}
+
+h1 {
+    font-weight: 300;
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 50px;
+    line-height: 10px;
+}
+
+h3 {
+    display: flex;
+    font-size: 20px;
+    font-weight: 100;
+    line-height: 5px;
+}
+
+img {
+    border: 0.1px solid white;
+    border-radius: 30px;
+}
+
+p {
+    line-height: 20px;
+    max-width: 500px;
+}
+
+.aside {
+    display: inline-flex;
+}
+
+.article {
+    display: inline-flex;
+}
+
+.body {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.titulo {
+    line-height: 20px;
+}
+
+#inscrevase {
+    color: #7c20a7;
+}
+
+#inscrever {
+    border: 2px solid #7c20a7;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+#inscrever:hover {
+    background-color: #7c20a7;
+    color: white;
+}
+
+#title {
+    flex-direction: column;
+    color: rgb(244, 244, 252);
+    line-height: 10px;
+}
