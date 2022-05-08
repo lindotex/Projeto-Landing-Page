@@ -1,0 +1,70 @@
+@media screen and (max-width: 888px) {
+    header {
+        flex-direction: column;
+    }
+    a {
+        margin: 8px;
+    }
+    p {
+        width: 400px;
+    }
+    main {
+        flex-direction: column;
+        align-self: center;
+    }
+    .body {
+        flex-direction: column;
+        width: 90%;
+        margin: 5%;
+    }
+    h2 {
+        font-size: 38px;
+    }
+    form {
+        margin: 0 auto;
+        align-self: none;
+    }
+    input {
+        align-self: none;
+        margin-top: none;
+    }
+    img {
+        margin-left: 10vw;
+        margin-right: 10vw;
+    }
+}
+
+@media screen and (max-width: 573px) {
+    #inscrever {
+        width: 270px;
+    }
+    header {
+        width: 80%;
+    }
+    body {
+        width: 80%;
+    }
+    h2 {
+        font-size: 18px;
+    }
+    p {
+        margin-top: 20px;
+        width: 80%;
+    }
+    form {
+        margin-top: 30px;
+    }
+    .body {
+        flex-direction: column;
+        width: 80%;
+        margin: 5%;
+    }
+    .titulo {
+        width: 80%;
+        margin: 5%;
+    }
+    .aside {
+        display: flex;
+        align-items: stretch;
+    }
+}
