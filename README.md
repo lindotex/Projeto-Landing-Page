@@ -3,35 +3,36 @@
 <!-- Projeto de Landing Page -->
 
 <h1><strong> ✨ Learning about HTML and CSS ✨ </strong></h1>
-😉😊✏️ I’m looking to improve mine personal Skills through experiences
-
-📜 Leaning process of HTML5 and CSS3
-
-Content of this aplication:
-✏️ HTML About TAGS. 
-    ✔️ DOCTYPE;
-    ✔️ html;
-    ✔️ meta and proprieties ( http-equiv, content, charset, ...);
-    ✔️ link and proprieties (href, rel,...);
-    ✔️ Title;
-    ✔️ Head, Header, Body, Aside and Footer;
-    ✔️ Divs and proprieties (class, id,...)
-    ✔️ "h1", "h2", "h3", "h4", "h5", "a" and "p";
-    ✔️ Inputs and proprieties (type, placeholder, ...);
-    ✔️ Img and proprieties (src, alt, ...);
-
-✏️ CSS3 About Selectors, proprieties and values: 
-    ✔️ Display (Block, Contents, Flex, Flexbox, inline,...);
-    ✔️ Height, Widht,...;
-    ✔️ Sizes (px, %, ch, cm, em, ex, fr, in, mm, vh, vw, auto,... );
-    ✔️ Padding, Boarder and Margin;
-    ✔️ Color;
-    ✔️ Background-color;
-    ✔️ Transition;
-    ✔️ Font-weight;
-    ...
-
-✏️ How to reach me: lindoten@gmail.com
+<p>😉😊✏️ I’m looking to improve mine personal Skills through experiences</p>
+<p></p>
+<p>📜 Leaning process of HTML5 and CSS3</p>
+<p></p>
+<h2>content of this aplication:</h2>
+<p></p>
+<p>✏️ HTML About TAGS. </p>
+    <p>✔️ DOCTYPE;</p>
+    <p>✔️ html;</p>
+    <p>✔️ meta and proprieties ( http-equiv, content, charset, ...);</p>
+    <p>✔️ link and proprieties (href, rel,...);</p>
+    <p>✔️ Title;</p>
+    <p>✔️ Head, Header, Body, Aside and Footer;</p>
+    <p>✔️ Divs and proprieties (class, id,...);</p>
+    <p>✔️ "h1", "h2", "h3", "h4", "h5", "a" and "p";</p>
+    <p>✔️ Inputs and proprieties (type, placeholder, ...);</p>
+    <p>✔️ Img and proprieties (src, alt, ...);</p>
+    <p></p>
+<p>✏️ CSS3 About Selectors, proprieties and values:</p>
+    <p>✔️ Display (Block, Contents, Flex, Flexbox, inline,...);</p>
+    <p>✔️ Height, Widht,...;</p>
+    <p>✔️ Sizes (px, %, ch, cm, em, ex, fr, in, mm, vh, vw, auto,... );</p>
+    <p>✔️ Padding, Boarder and Margin;</p>
+    <p>✔️ Color;</p>
+    <p>✔️ Background-color;</p>
+    <p>✔️ Transition;</p>
+    <p>✔️ Font-weight;</p>
+    <p>...</p>
+<p></p>
+<p>✏️ How to reach me: lindoten@gmail.com</p>
 
 <a href="https://www.linkedin.com/in/alissonlindote/" title="LinkedIn"> LinkedIn site</a>
 <p></p>
