@@ -7,9 +7,9 @@
 <p></p>
 <p>📜 Leaning process of HTML5 and CSS3</p>
 <p></p>
-<h2>content of this aplication:</h2>
+<h2>Content of this aplication:</h2>
 <p></p>
-<p>✏️ HTML About TAGS. </p>
+<h3>✏️ HTML About TAGS. </h3>
     <p>✔️ DOCTYPE;</p>
     <p>✔️ html;</p>
     <p>✔️ meta and proprieties ( http-equiv, content, charset, ...);</p>
@@ -21,7 +21,7 @@
     <p>✔️ Inputs and proprieties (type, placeholder, ...);</p>
     <p>✔️ Img and proprieties (src, alt, ...);</p>
     <p></p>
-<p>✏️ CSS3 About Selectors, proprieties and values:</p>
+<h3>✏️ CSS3 About Selectors, proprieties and values:</h3>
     <p>✔️ Display (Block, Contents, Flex, Flexbox, inline,...);</p>
     <p>✔️ Height, Widht,...;</p>
     <p>✔️ Sizes (px, %, ch, cm, em, ex, fr, in, mm, vh, vw, auto,... );</p>
